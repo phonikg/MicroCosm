@@ -3,7 +3,9 @@ MicroCosm: A Permissionless Chain for the InterBlockchain of Things
 
 
 John Gerryts
+
 @PhonikG
+
 https://github.com/phonikg/MicroCosm
 
 
